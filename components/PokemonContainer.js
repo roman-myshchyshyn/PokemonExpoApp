@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import { ActivityIndicator } from 'react-native'
 import { useQuery } from 'react-apollo'
-import gql from 'graphql-tag'
 
 import Pokemon from './Pokemon'
 import getRandomInt from '../helpers/getRandomInt'
