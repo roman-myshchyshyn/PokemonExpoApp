@@ -2,5 +2,9 @@
 
 ReactNative Expo App
 
-# yarn install
-# expo start
+## Quick Start
+
+```sh
+yarn install
+expo start
+```
